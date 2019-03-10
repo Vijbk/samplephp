@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Santhosh and ravi are the devops leadersg";
+echo "Vijay and Sridhar are friends:)";
 ?>
 
 </body>
