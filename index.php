@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Vijay and Sridhar are friends:)";
+echo "Vijay and Sridhar met in BMS College Of Engineering:)";
 ?>
 
 </body>
